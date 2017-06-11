@@ -1,0 +1,4 @@
+BPR-TransR:	bpr-transr/bpr-transr.cpp	请使用支持C++11的编译环境编译该文件
+MFBPR:		bpr/bpr.cpp			请使用支持C++11的编译环境编译该文件
+绘制不同维度下MFBPR和BPR-TransR的比较图:	outputs_and_plots/plot_dim.py	请使用Python2.7运行
+绘制随迭代次数MFBPR和BPR-TransR的比较图:	outputs_and_plots/plot_40.py	请使用Python2.7运行
