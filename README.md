@@ -38,3 +38,6 @@ Python plot_40.py
 ```
 ## 5.其他
 程序的具体问题请见源代码中的注释
+
+## 6.参考
+[Collaborative Knowledge Base Embedding for Recommender Systems](http://www.kdd.org/kdd2016/subtopic/view/collaborative-knowledge-base-embedding-for-recommender-systems)
